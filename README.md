@@ -1,2 +1,2 @@
-# metropolis-powerpoint
-Metropolis Beamer theme clone in PowerPoint
+# Metropolis PowerPoint
+PowerPoint theme inspired by the [Metropolis Beamer theme](https://github.com/matze/mtheme).

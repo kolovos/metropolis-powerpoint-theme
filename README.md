@@ -7,6 +7,6 @@ Bringing the awesome [Metropolis Beamer theme](https://github.com/matze/mtheme) 
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ec00409a-e4e2-40db-91ef-c5b713377f90" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f17f5102-fad5-4407-8eae-0fcae2f18b82" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cc9a598f-0190-4ccd-a42a-0399e0330fc7" />
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/642c5f3b-1520-47a8-8373-c08709c23c90" />
